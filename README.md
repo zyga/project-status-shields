@@ -12,8 +12,8 @@ annoying to find that one of your dependencies is no longer maintained.
 
 Wouldn't it be great if it was easy to clearly and unambiguously state that a
 project is no longer supported or that conversely it is actively supported?
-Enter *project status*. We supply you with an easy-to-use badge that documents
-how the author or principal maintainer sees a given repository.
+Enter **project status** shields. We supply you with an easy-to-use shield
+that documents how the author or principal maintainer sees a given repository.
 
 ## Shaping
 
@@ -31,7 +31,7 @@ The project is actively developed and should offers a solid base for other
 software. It is past its early development stages and can be used by third
 parties. Maintainers are working periodic new releases.
 
-The {year} indicates when the project last updated its status.
+The `{year}` indicates when the project last updated its status.
 
 ## Maintained in {Year}
 
@@ -41,7 +41,7 @@ The project is not actively developed but is maintained and may make occasional
 releases with new features, bug fixes and security fixes. New projects may
 want to re-consider using it as a dependency but immediate migration is not neccessary.
 
-The {year} indicates when the project last updated its status.
+The `{year}` indicates when the project last updated its status.
 
 ## On life support in {Year}
 
@@ -51,7 +51,7 @@ The project is not actively developed and the maintainers may only apply
 security fixes, if any. If you use it as a dependency you should strongly 
 consider migrating to another project.
 
-The {year} indicates when the project last updated its status.
+The `{year}` indicates when the project last updated its status.
 
 ## Abandoned
 
@@ -60,5 +60,3 @@ The {year} indicates when the project last updated its status.
 The project may have been great once or it may have been just a demo.
 In either case it is not actively maintained anymore. If you have it
 as a dependency then immediately migrate to another project.
-
-
