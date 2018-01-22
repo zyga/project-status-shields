@@ -6,12 +6,12 @@ As software developers you have both a responsibility and a duty to your fellow
 developers to clearly state if something is supported or not. It's always
 annoying to find that one of your dependencies is no longer maintained.
 
-# Project Status Shields
+## Project Status Shields
 
 Wouldn't it be great if it was easy to clearly and unambiguously state that a
 project is no longer supported or that conversely it is actively supported?
-Enter **project status shields**. We supply you with an easy-to-use shield
-that documents how the author or principal maintainer sees a given repository.
+Enter **project status shields**. We supply you with an easy-to-use shield that
+documents how the author or principal maintainer sees a given repository.
 
 ### Shaping
 
@@ -36,8 +36,9 @@ The `{year}` indicates when the project last updated its status.
 ![This project is supported but not developed](https://img.shields.io/badge/project--status-maintained_in_2018-yellowgreen.svg)
 
 The project is not actively developed but is maintained and may make occasional
-releases with new features, bug fixes and security fixes. New projects may
-want to re-consider using it as a dependency but immediate migration is not neccessary.
+releases with new features, bug fixes and security fixes. New projects may want
+to re-consider using it as a dependency but immediate migration is not
+necessary.
 
 The `{year}` indicates when the project last updated its status.
 
@@ -46,7 +47,7 @@ The `{year}` indicates when the project last updated its status.
 ![This project is on life support](https://img.shields.io/badge/project--status-on_life_support_in_2018-red.svg)
 
 The project is not actively developed and the maintainers may only apply
-security fixes, if any. If you use it as a dependency you should strongly 
+security fixes, if any. If you use it as a dependency you should strongly
 consider migrating to another project.
 
 The `{year}` indicates when the project last updated its status.
@@ -55,6 +56,6 @@ The `{year}` indicates when the project last updated its status.
 
 ![This project is abandoned](https://img.shields.io/badge/project--status-abandoned-lightgrey.svg)
 
-The project may have been great once or it may have been just a demo.
-In either case it is not actively maintained anymore. If you have it
-as a dependency then immediately migrate to another project.
+The project may have been great once or it may have been just a demo. In either
+case it is not actively maintained anymore. If you have it as a dependency then
+immediately migrate to another project.
